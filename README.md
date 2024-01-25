@@ -9,7 +9,6 @@ This is a comprehensive project built using DJANGO, HTML, AND TAILWIND CSS. The 
   5. View items on detailed pages with further descriptions
   6. Detailed pages also give the option to contact the seller if the user is interested in buying the item
   7. Dashboard page to make changes to items posted i.e. if the user wants to edit or delete the item
-  8. Receive and send messages
 
 Local build:
   Run the following command in django environment
